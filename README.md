@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-```javascript
+javascript
 const JATELE = {
   rol:        "Fullstack Developer",
   ubicacion:  "Perú 🇵🇪",
@@ -26,7 +26,7 @@ const JATELE = {
   preguntame: "Sobre desarrollo web y código",
   fun_fact:   "El mejor código es el que no necesita comentarios 😄"
 };
-```
+
 
 ---
 
