@@ -1,63 +1,85 @@
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--           JATELE — GitHub Profile README              -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ===================================================== -->
+<!--                    JATELE README                       -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-# Hey, soy JATELE 👋
+# 👋 Hola, soy JATELE
 
-### Fullstack Developer · Siempre aprendiendo · Construyendo cosas
+### Full Stack Developer | PHP • JavaScript • MySQL
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%9A%80;Siempre+aprendiendo+algo+nuevo+%F0%9F%8C%B1;Construyendo+proyectos+con+pasi%C3%B3n+%F0%9F%94%A5;Open+to+collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Construyendo+soluciones+reales;PHP+%7C+JavaScript+%7C+MySQL;Siempre+aprendiendo+nuevas+tecnologías" />
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🚀 Sobre mí
 
-javascript
-const JATELE = {
-  rol:        "Fullstack Developer",
-  ubicacion:  "Perú 🇵🇪",
-  trabajando: "Proyectos fullstack propios",
-  aprendiendo: ["Nuevas tecnologías", "Buenas prácticas", "Clean Code"],
-  busco:      "Colaborar en proyectos interesantes",
-  preguntame: "Sobre desarrollo web y código",
-  fun_fact:   "El mejor código es el que no necesita comentarios 😄"
+```js
+const developer = {
+    nombre: "JATELE",
+    pais: "Perú 🇵🇪",
+    rol: "Full Stack Developer",
+    stack: ["PHP", "JavaScript", "MySQL", "Bootstrap"],
+    enfoque: [
+        "Desarrollo Web",
+        "CRM",
+        "Automatización",
+        "Integraciones API"
+    ],
+    actualmente: "Construyendo proyectos escalables",
 };
-
+```
 
 ---
 
-## 🚀 Tech Stack
+## 🎯 Especialidades
 
-**Frontend**
+- 💻 Desarrollo Web Full Stack
+- 🗄️ Diseño y gestión de bases de datos
+- 🔗 Integración de APIs
+- 🤖 Automatización de procesos
+- 📊 Sistemas CRM
+- ☁️ Despliegue y mantenimiento de aplicaciones
+
+---
+
+## 🛠️ Tecnologías
+
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend**
+### Backend
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Base de datos**
+### Base de Datos
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Herramientas**
+### Herramientas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 Proyectos Destacados
+
+### 🚗 Rentaoo
+Sistema de alquiler de vehículos con reservas, panel administrativo, notificaciones automáticas y gestión de arrendadores.
+
+### 🏝️ CRM Turístico
+Sistema CRM para gestión de clientes, campañas, encuestas y análisis de preferencias turísticas.
+
+### 🛒 Sistema de Ventas
+Gestión de productos, clientes, inventario y reportes.
 
 ---
 
@@ -65,24 +87,19 @@ const JATELE = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JATELE&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JATELE&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JATELE&show_icons=true&theme=github_dark&hide_border=true" />
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JATELE&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JATELE&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 🌐 Conéctate conmigo
+## 🌎 Contacto
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-JATELE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JATELE)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/JATELE)
 
 </div>
 
@@ -90,8 +107,6 @@ const JATELE = {
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=JATELE&color=58a6ff&style=flat-square&label=Visitas+al+perfil)
-
-*"El código es poesía"* ✨
+### ⚡ "Primero haz que funcione, luego haz que sea elegante."
 
 </div>
